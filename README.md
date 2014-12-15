@@ -10,4 +10,8 @@
 Сырые данные open-street.cv
 
 Онтология: 
-http://schema.org/Place (geoCoordinates & postalAddress)
+Schema, URI: http://schema.org/ (geoCoordinates & postalAddress)
+
+Примеры SPARQL-запросов:
+ - prefix schema: <http://schema.org/>
+select ?x ?z ?a  where {?x a schema:Place. ?x schema:GeoCoordinates ?y. ?y schema:latitude ?z. ?y schema:longitude ?a.}
