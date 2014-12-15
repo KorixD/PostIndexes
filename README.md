@@ -15,3 +15,5 @@ Schema, URI: http://schema.org/ (geoCoordinates & postalAddress)
 Примеры SPARQL-запросов:
  - prefix schema: <http://schema.org/>
 select ?x ?z ?a  where {?x a schema:Place. ?x schema:GeoCoordinates ?y. ?y schema:latitude ?z. ?y schema:longitude ?a.}
+
+select ?y ?x where {?a a schema:PostalAddress. ?a schema:postalCode ?x. ?a schema:streetAddress ?y.}
