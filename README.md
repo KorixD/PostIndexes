@@ -10,4 +10,4 @@
 Сырые данные из http://fias.nalog.ru/Public/DownloadPage.aspx
 
 Онтология: 
-http://schema.org/Place(geoCoordinates & postalAddress)
+http://schema.org/Place (geoCoordinates & postalAddress)
