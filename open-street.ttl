@@ -1,0 +1,1206 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://ifmo.com/address/1> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/1/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/1/PostalAddress/> .
+
+<http://ifmo.com/address/10> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/10/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/10/PostalAddress/> .
+
+<http://ifmo.com/address/100> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/100/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/100/PostalAddress/> .
+
+<http://ifmo.com/address/11> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/11/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/11/PostalAddress/> .
+
+<http://ifmo.com/address/12> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/12/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/12/PostalAddress/> .
+
+<http://ifmo.com/address/13> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/13/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/13/PostalAddress/> .
+
+<http://ifmo.com/address/14> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/14/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/14/PostalAddress/> .
+
+<http://ifmo.com/address/15> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/15/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/15/PostalAddress/> .
+
+<http://ifmo.com/address/16> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/16/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/16/PostalAddress/> .
+
+<http://ifmo.com/address/17> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/17/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/17/PostalAddress/> .
+
+<http://ifmo.com/address/18> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/18/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/18/PostalAddress/> .
+
+<http://ifmo.com/address/19> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/19/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/19/PostalAddress/> .
+
+<http://ifmo.com/address/2> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/2/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/2/PostalAddress/> .
+
+<http://ifmo.com/address/20> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/20/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/20/PostalAddress/> .
+
+<http://ifmo.com/address/21> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/21/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/21/PostalAddress/> .
+
+<http://ifmo.com/address/22> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/22/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/22/PostalAddress/> .
+
+<http://ifmo.com/address/23> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/23/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/23/PostalAddress/> .
+
+<http://ifmo.com/address/24> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/24/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/24/PostalAddress/> .
+
+<http://ifmo.com/address/25> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/25/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/25/PostalAddress/> .
+
+<http://ifmo.com/address/26> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/26/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/26/PostalAddress/> .
+
+<http://ifmo.com/address/27> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/27/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/27/PostalAddress/> .
+
+<http://ifmo.com/address/28> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/28/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/28/PostalAddress/> .
+
+<http://ifmo.com/address/29> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/29/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/29/PostalAddress/> .
+
+<http://ifmo.com/address/3> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/3/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/3/PostalAddress/> .
+
+<http://ifmo.com/address/30> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/30/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/30/PostalAddress/> .
+
+<http://ifmo.com/address/31> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/31/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/31/PostalAddress/> .
+
+<http://ifmo.com/address/32> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/32/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/32/PostalAddress/> .
+
+<http://ifmo.com/address/33> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/33/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/33/PostalAddress/> .
+
+<http://ifmo.com/address/34> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/34/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/34/PostalAddress/> .
+
+<http://ifmo.com/address/35> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/35/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/35/PostalAddress/> .
+
+<http://ifmo.com/address/36> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/36/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/36/PostalAddress/> .
+
+<http://ifmo.com/address/37> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/37/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/37/PostalAddress/> .
+
+<http://ifmo.com/address/38> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/38/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/38/PostalAddress/> .
+
+<http://ifmo.com/address/39> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/39/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/39/PostalAddress/> .
+
+<http://ifmo.com/address/4> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/4/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/4/PostalAddress/> .
+
+<http://ifmo.com/address/40> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/40/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/40/PostalAddress/> .
+
+<http://ifmo.com/address/41> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/41/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/41/PostalAddress/> .
+
+<http://ifmo.com/address/42> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/42/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/42/PostalAddress/> .
+
+<http://ifmo.com/address/43> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/43/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/43/PostalAddress/> .
+
+<http://ifmo.com/address/44> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/44/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/44/PostalAddress/> .
+
+<http://ifmo.com/address/45> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/45/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/45/PostalAddress/> .
+
+<http://ifmo.com/address/46> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/46/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/46/PostalAddress/> .
+
+<http://ifmo.com/address/47> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/47/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/47/PostalAddress/> .
+
+<http://ifmo.com/address/48> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/48/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/48/PostalAddress/> .
+
+<http://ifmo.com/address/49> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/49/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/49/PostalAddress/> .
+
+<http://ifmo.com/address/5> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/5/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/5/PostalAddress/> .
+
+<http://ifmo.com/address/50> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/50/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/50/PostalAddress/> .
+
+<http://ifmo.com/address/51> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/51/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/51/PostalAddress/> .
+
+<http://ifmo.com/address/52> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/52/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/52/PostalAddress/> .
+
+<http://ifmo.com/address/53> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/53/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/53/PostalAddress/> .
+
+<http://ifmo.com/address/54> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/54/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/54/PostalAddress/> .
+
+<http://ifmo.com/address/55> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/55/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/55/PostalAddress/> .
+
+<http://ifmo.com/address/56> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/56/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/56/PostalAddress/> .
+
+<http://ifmo.com/address/57> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/57/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/57/PostalAddress/> .
+
+<http://ifmo.com/address/58> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/58/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/58/PostalAddress/> .
+
+<http://ifmo.com/address/59> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/59/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/59/PostalAddress/> .
+
+<http://ifmo.com/address/6> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/6/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/6/PostalAddress/> .
+
+<http://ifmo.com/address/60> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/60/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/60/PostalAddress/> .
+
+<http://ifmo.com/address/61> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/61/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/61/PostalAddress/> .
+
+<http://ifmo.com/address/62> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/62/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/62/PostalAddress/> .
+
+<http://ifmo.com/address/63> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/63/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/63/PostalAddress/> .
+
+<http://ifmo.com/address/64> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/64/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/64/PostalAddress/> .
+
+<http://ifmo.com/address/65> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/65/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/65/PostalAddress/> .
+
+<http://ifmo.com/address/66> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/66/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/66/PostalAddress/> .
+
+<http://ifmo.com/address/67> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/67/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/67/PostalAddress/> .
+
+<http://ifmo.com/address/68> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/68/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/68/PostalAddress/> .
+
+<http://ifmo.com/address/69> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/69/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/69/PostalAddress/> .
+
+<http://ifmo.com/address/7> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/7/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/7/PostalAddress/> .
+
+<http://ifmo.com/address/70> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/70/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/70/PostalAddress/> .
+
+<http://ifmo.com/address/71> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/71/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/71/PostalAddress/> .
+
+<http://ifmo.com/address/72> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/72/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/72/PostalAddress/> .
+
+<http://ifmo.com/address/73> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/73/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/73/PostalAddress/> .
+
+<http://ifmo.com/address/74> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/74/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/74/PostalAddress/> .
+
+<http://ifmo.com/address/75> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/75/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/75/PostalAddress/> .
+
+<http://ifmo.com/address/76> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/76/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/76/PostalAddress/> .
+
+<http://ifmo.com/address/77> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/77/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/77/PostalAddress/> .
+
+<http://ifmo.com/address/78> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/78/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/78/PostalAddress/> .
+
+<http://ifmo.com/address/79> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/79/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/79/PostalAddress/> .
+
+<http://ifmo.com/address/8> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/8/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/8/PostalAddress/> .
+
+<http://ifmo.com/address/80> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/80/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/80/PostalAddress/> .
+
+<http://ifmo.com/address/81> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/81/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/81/PostalAddress/> .
+
+<http://ifmo.com/address/82> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/82/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/82/PostalAddress/> .
+
+<http://ifmo.com/address/83> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/83/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/83/PostalAddress/> .
+
+<http://ifmo.com/address/84> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/84/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/84/PostalAddress/> .
+
+<http://ifmo.com/address/85> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/85/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/85/PostalAddress/> .
+
+<http://ifmo.com/address/86> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/86/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/86/PostalAddress/> .
+
+<http://ifmo.com/address/87> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/87/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/87/PostalAddress/> .
+
+<http://ifmo.com/address/88> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/88/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/88/PostalAddress/> .
+
+<http://ifmo.com/address/89> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/89/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/89/PostalAddress/> .
+
+<http://ifmo.com/address/9> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/9/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/9/PostalAddress/> .
+
+<http://ifmo.com/address/90> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/90/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/90/PostalAddress/> .
+
+<http://ifmo.com/address/91> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/91/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/91/PostalAddress/> .
+
+<http://ifmo.com/address/92> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/92/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/92/PostalAddress/> .
+
+<http://ifmo.com/address/93> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/93/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/93/PostalAddress/> .
+
+<http://ifmo.com/address/94> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/94/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/94/PostalAddress/> .
+
+<http://ifmo.com/address/95> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/95/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/95/PostalAddress/> .
+
+<http://ifmo.com/address/96> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/96/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/96/PostalAddress/> .
+
+<http://ifmo.com/address/97> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/97/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/97/PostalAddress/> .
+
+<http://ifmo.com/address/98> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/98/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/98/PostalAddress/> .
+
+<http://ifmo.com/address/99> a schema:Place ;
+    schema:GeoCoordinates <http://ifmo.com/address/99/GeoCoordinates/> ;
+    schema:PostalAddress <http://ifmo.com/address/99/PostalAddress/> .
+
+<http://ifmo.com/address/1/GeoCoordinates/> schema:latitude "50.898671"@en ;
+    schema:longitude "36.424331"@en .
+
+<http://ifmo.com/address/1/PostalAddress/> schema:addressLocality "с Покровка"@ru ;
+    schema:addressRegion "обл Белгородская р-н Ивнянский"@ru ;
+    schema:postalCode "309118"@en ;
+    schema:streetAddress "ул Луговая"@ru .
+
+<http://ifmo.com/address/10/GeoCoordinates/> schema:latitude "53.014747"@en ;
+    schema:longitude "36.092170"@en .
+
+<http://ifmo.com/address/10/PostalAddress/> schema:addressLocality "д Нижняя Лужна"@ru ;
+    schema:addressRegion "обл Орловская р-н Орловский"@ru ;
+    schema:postalCode "302538"@en ;
+    schema:streetAddress "пер Мирный"@ru .
+
+<http://ifmo.com/address/100/GeoCoordinates/> schema:latitude "51.359712"@en ;
+    schema:longitude "37.817834"@en .
+
+<http://ifmo.com/address/100/PostalAddress/> schema:addressLocality "с Каплино"@ru ;
+    schema:addressRegion "обл Белгородская р-н Старооскольский"@ru ;
+    schema:postalCode "309537"@en ;
+    schema:streetAddress "пер 2-й Подгорный"@ru .
+
+<http://ifmo.com/address/11/GeoCoordinates/> schema:latitude "50.529984"@en ;
+    schema:longitude "36.889434"@en .
+
+<http://ifmo.com/address/11/PostalAddress/> schema:addressLocality "с Пенцево"@ru ;
+    schema:addressRegion "обл Белгородская р-н Шебекинский"@ru ;
+    schema:postalCode "309252"@en ;
+    schema:streetAddress "ул Гагарина"@ru .
+
+<http://ifmo.com/address/12/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/12/PostalAddress/> schema:addressLocality "пгт Краскино"@ru ;
+    schema:addressRegion "край Приморский р-н Хасанский"@ru ;
+    schema:postalCode "692715"@en ;
+    schema:streetAddress "с Лебединный"@ru .
+
+<http://ifmo.com/address/13/GeoCoordinates/> schema:latitude "52.625322"@en ;
+    schema:longitude "35.439607"@en .
+
+<http://ifmo.com/address/13/PostalAddress/> schema:addressLocality "д Толмачёво"@ru ;
+    schema:addressRegion "обл Орловская р-н Сосковский"@ru ;
+    schema:postalCode "303985"@en ;
+    schema:streetAddress "ул Луговая"@ru .
+
+<http://ifmo.com/address/14/GeoCoordinates/> schema:latitude "54.441586"@en ;
+    schema:longitude "35.340092"@en .
+
+<http://ifmo.com/address/14/PostalAddress/> schema:addressLocality "с Гаврики"@ru ;
+    schema:addressRegion "обл Калужская р-н Мещовский"@ru ;
+    schema:postalCode "249251"@en ;
+    schema:streetAddress "ул Лесная"@ru .
+
+<http://ifmo.com/address/15/GeoCoordinates/> schema:latitude "51.305503"@en ;
+    schema:longitude "37.712336"@en .
+
+<http://ifmo.com/address/15/PostalAddress/> schema:addressLocality "с Песчанка"@ru ;
+    schema:addressRegion "обл Белгородская р-н Старооскольский"@ru ;
+    schema:postalCode "305539"@en ;
+    schema:streetAddress "ул Солнечная"@ru .
+
+<http://ifmo.com/address/16/GeoCoordinates/> schema:latitude "58.533898"@en ;
+    schema:longitude "50.085479"@en .
+
+<http://ifmo.com/address/16/PostalAddress/> schema:addressLocality "г Ковров"@ru ;
+    schema:addressRegion "обл Владимирская р-н Ковровский"@ru ;
+    schema:postalCode "601900"@en ;
+    schema:streetAddress "тер ГСК 25 проезд Восточный (101)"@ru .
+
+<http://ifmo.com/address/17/GeoCoordinates/> schema:latitude "56.361733"@en ;
+    schema:longitude "41.296919"@en .
+
+<http://ifmo.com/address/17/PostalAddress/> schema:addressLocality "г Ковров"@ru ;
+    schema:addressRegion "обл Владимирская р-н Ковровский"@ru ;
+    schema:postalCode "601900"@en ;
+    schema:streetAddress "ул Шмидта"@ru .
+
+<http://ifmo.com/address/18/GeoCoordinates/> schema:latitude "59.023358"@en ;
+    schema:longitude "54.652568"@en .
+
+<http://ifmo.com/address/18/PostalAddress/> schema:addressLocality "д Щекурья"@ru ;
+    schema:addressRegion "АО Ханты-Мансийский Автономный округ - Югра р-н Березовский"@ru ;
+    schema:postalCode "628148"@en ;
+    schema:streetAddress "ул Спортивная"@ru .
+
+<http://ifmo.com/address/19/GeoCoordinates/> schema:latitude "50.898467"@en ;
+    schema:longitude "128.456265"@en .
+
+<http://ifmo.com/address/19/PostalAddress/> schema:addressLocality "городок Серышево-2"@ru ;
+    schema:addressRegion "обл Амурская р-н Серышевский"@ru ;
+    schema:postalCode "676352"@en ;
+    schema:streetAddress "ул Авиационная"@ru .
+
+<http://ifmo.com/address/2/GeoCoordinates/> schema:latitude "52.736549"@en ;
+    schema:longitude "41.425791"@en .
+
+<http://ifmo.com/address/2/PostalAddress/> schema:addressLocality "рп Токаревка"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Токаревский"@ru ;
+    schema:postalCode "393550"@en ;
+    schema:streetAddress "ул Заводская"@ru .
+
+<http://ifmo.com/address/20/GeoCoordinates/> schema:latitude "51.246770"@en ;
+    schema:longitude "38.023521"@en .
+
+<http://ifmo.com/address/20/PostalAddress/> schema:addressLocality "с Озерки"@ru ;
+    schema:addressRegion "обл Белгородская р-н Старооскольский"@ru ;
+    schema:postalCode "309543"@en ;
+    schema:streetAddress "ул Зеленая"@ru .
+
+<http://ifmo.com/address/21/GeoCoordinates/> schema:latitude "54.093261"@en ;
+    schema:longitude "77.670486"@en .
+
+<http://ifmo.com/address/21/PostalAddress/> schema:addressLocality "с Баган"@ru ;
+    schema:addressRegion "обл Новосибирская р-н Баганский"@ru ;
+    schema:postalCode "632770"@en ;
+    schema:streetAddress "ул Октябрьская"@ru .
+
+<http://ifmo.com/address/22/GeoCoordinates/> schema:latitude "47.685421"@en ;
+    schema:longitude "39.922263"@en .
+
+<http://ifmo.com/address/22/PostalAddress/> schema:addressLocality "с Алексеевка"@ru ;
+    schema:addressRegion "обл Ростовская р-н Октябрьский"@ru ;
+    schema:postalCode "346475"@en ;
+    schema:streetAddress "ул Средняя"@ru .
+
+<http://ifmo.com/address/23/GeoCoordinates/> schema:latitude "54.701668"@en ;
+    schema:longitude "76.584917"@en .
+
+<http://ifmo.com/address/23/PostalAddress/> schema:addressLocality "рп Чистоозерное"@ru ;
+    schema:addressRegion "обл Новосибирская р-н Чистоозерный"@ru ;
+    schema:postalCode "632720"@en ;
+    schema:streetAddress "пер Космический"@ru .
+
+<http://ifmo.com/address/24/GeoCoordinates/> schema:latitude "51.185754"@en ;
+    schema:longitude "37.373895"@en .
+
+<http://ifmo.com/address/24/PostalAddress/> schema:addressLocality "с Бобровы Дворы"@ru ;
+    schema:addressRegion "обл Белгородская р-н Губкинский"@ru ;
+    schema:postalCode "309170"@en ;
+    schema:streetAddress "ул Свободная"@ru .
+
+<http://ifmo.com/address/25/GeoCoordinates/> schema:latitude "53.838650"@en ;
+    schema:longitude "77.561009"@en .
+
+<http://ifmo.com/address/25/PostalAddress/> schema:addressLocality "д Петрушино"@ru ;
+    schema:addressRegion "обл Новосибирская р-н Баганский"@ru ;
+    schema:postalCode "632792"@en ;
+    schema:streetAddress "ул Набережная"@ru .
+
+<http://ifmo.com/address/26/GeoCoordinates/> schema:latitude "53.478137"@en ;
+    schema:longitude "38.032118"@en .
+
+<http://ifmo.com/address/26/PostalAddress/> schema:addressLocality "п Ялта"@ru ;
+    schema:addressRegion "обл Тульская р-н Воловский"@ru ;
+    schema:postalCode "301580"@en ;
+    schema:streetAddress "ул Школьная"@ru .
+
+<http://ifmo.com/address/27/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/27/PostalAddress/> schema:addressLocality "с Хамби-Ирзи"@ru ;
+    schema:addressRegion "Респ Чеченская р-н Ачхой-Мартановский"@ru ;
+    schema:postalCode "366606"@en ;
+    schema:streetAddress "ул Дружбы"@ru .
+
+<http://ifmo.com/address/28/GeoCoordinates/> schema:latitude "44.590927"@en ;
+    schema:longitude "40.081256"@en .
+
+<http://ifmo.com/address/28/PostalAddress/> schema:addressLocality "аул Хакуринохабль"@ru ;
+    schema:addressRegion "Респ Адыгея р-н Шовгеновский"@ru ;
+    schema:postalCode "385440"@en ;
+    schema:streetAddress "ул Кожевенная"@ru .
+
+<http://ifmo.com/address/29/GeoCoordinates/> schema:latitude "53.394283"@en ;
+    schema:longitude "38.083933"@en .
+
+<http://ifmo.com/address/29/PostalAddress/> schema:addressLocality "п Горный"@ru ;
+    schema:addressRegion "обл Тульская р-н Воловский"@ru ;
+    schema:postalCode "301588"@en ;
+    schema:streetAddress "ул Ветеранов"@ru .
+
+<http://ifmo.com/address/3/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/3/PostalAddress/> schema:addressLocality "х Атамановка"@ru ;
+    schema:addressRegion "обл Ростовская р-н Неклиновский"@ru ;
+    schema:postalCode "346853"@en ;
+    schema:streetAddress "ул Свободы"@ru .
+
+<http://ifmo.com/address/30/GeoCoordinates/> schema:latitude "64.651905"@en ;
+    schema:longitude "40.541068"@en .
+
+<http://ifmo.com/address/30/PostalAddress/> schema:addressLocality "д Сафроновка"@ru ;
+    schema:addressRegion "обл Архангельская р-н Ленский"@ru ;
+    schema:postalCode "165771"@en ;
+    schema:streetAddress "ул Огородная"@ru .
+
+<http://ifmo.com/address/31/GeoCoordinates/> schema:latitude "50.910753"@en ;
+    schema:longitude "36.201836"@en .
+
+<http://ifmo.com/address/31/PostalAddress/> schema:addressLocality "с Березовка"@ru ;
+    schema:addressRegion "обл Белгородская р-н Ивнянский"@ru ;
+    schema:postalCode "309137"@en ;
+    schema:streetAddress "ул Казиновка"@ru .
+
+<http://ifmo.com/address/32/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/32/PostalAddress/> schema:addressLocality "с Каймановка"@ru ;
+    schema:addressRegion "край Приморский г Уссурийск"@ru ;
+    schema:postalCode "692532"@en ;
+    schema:streetAddress "ул Новая"@ru .
+
+<http://ifmo.com/address/33/GeoCoordinates/> schema:latitude "55.408271"@en ;
+    schema:longitude "55.523790"@en .
+
+<http://ifmo.com/address/33/PostalAddress/> schema:addressLocality "г Бирск"@ru ;
+    schema:addressRegion "Респ Башкортостан р-н Бирский"@ru ;
+    schema:postalCode "452453"@en ;
+    schema:streetAddress "ул Воробьева"@ru .
+
+<http://ifmo.com/address/34/GeoCoordinates/> schema:latitude "59.023358"@en ;
+    schema:longitude "54.652568"@en .
+
+<http://ifmo.com/address/34/PostalAddress/> schema:addressLocality "с Саранпауль"@ru ;
+    schema:addressRegion "АО Ханты-Мансийский Автономный округ - Югра р-н Березовский"@ru ;
+    schema:postalCode "628148"@en ;
+    schema:streetAddress "ул Семена Васильевича Семяшкина"@ru .
+
+<http://ifmo.com/address/35/GeoCoordinates/> schema:latitude "50.680716"@en ;
+    schema:longitude "37.121783"@en .
+
+<http://ifmo.com/address/35/PostalAddress/> schema:addressLocality "с Тюрино"@ru ;
+    schema:addressRegion "обл Белгородская р-н Шебекинский"@ru ;
+    schema:postalCode "309266"@en ;
+    schema:streetAddress "ул Полевая"@ru .
+
+<http://ifmo.com/address/36/GeoCoordinates/> schema:latitude "53.038491"@en ;
+    schema:longitude "36.232900"@en .
+
+<http://ifmo.com/address/36/PostalAddress/> schema:addressLocality "с Платоново"@ru ;
+    schema:addressRegion "обл Орловская р-н Орловский"@ru ;
+    schema:postalCode "302525"@en ;
+    schema:streetAddress "ул Ильинская"@ru .
+
+<http://ifmo.com/address/37/GeoCoordinates/> schema:latitude "54.271500"@en ;
+    schema:longitude "56.525537"@en .
+
+<http://ifmo.com/address/37/PostalAddress/> schema:addressLocality "г Бирск"@ru ;
+    schema:addressRegion "Респ Башкортостан р-н Бирский"@ru ;
+    schema:postalCode "452450"@en ;
+    schema:streetAddress "сад Прогресс"@ru .
+
+<http://ifmo.com/address/38/GeoCoordinates/> schema:latitude "53.888064"@en ;
+    schema:longitude "37.575693"@en .
+
+<http://ifmo.com/address/38/PostalAddress/> schema:addressLocality "рп Ленинский"@ru ;
+    schema:addressRegion "обл Тульская р-н Ленинский"@ru ;
+    schema:postalCode "301131"@en ;
+    schema:streetAddress "ул Чихирева"@ru .
+
+<http://ifmo.com/address/39/GeoCoordinates/> schema:latitude "56.352008"@en ;
+    schema:longitude "41.289319"@en .
+
+<http://ifmo.com/address/39/PostalAddress/> schema:addressLocality "г Ковров"@ru ;
+    schema:addressRegion "обл Владимирская р-н Ковровский"@ru ;
+    schema:postalCode "601900"@en ;
+    schema:streetAddress "тер ГСК 4А ул Волго-Донская (66)"@ru .
+
+<http://ifmo.com/address/4/GeoCoordinates/> schema:latitude "56.349250"@en ;
+    schema:longitude "41.311472"@en .
+
+<http://ifmo.com/address/4/PostalAddress/> schema:addressLocality "г Ковров"@ru ;
+    schema:addressRegion "обл Владимирская р-н Ковровский"@ru ;
+    schema:postalCode "601910"@en ;
+    schema:streetAddress "ул Черняховского"@ru .
+
+<http://ifmo.com/address/40/GeoCoordinates/> schema:latitude "53.320227"@en ;
+    schema:longitude "40.695335"@en .
+
+<http://ifmo.com/address/40/PostalAddress/> schema:addressLocality "с Староюрьево"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Староюрьевский"@ru ;
+    schema:postalCode "393800"@en ;
+    schema:streetAddress "ул 3 Пятилетка"@ru .
+
+<http://ifmo.com/address/41/GeoCoordinates/> schema:latitude "54.328171"@en ;
+    schema:longitude "35.276733"@en .
+
+<http://ifmo.com/address/41/PostalAddress/> schema:addressLocality "с Искра"@ru ;
+    schema:addressRegion "обл Калужская р-н Мещовский"@ru ;
+    schema:postalCode "249256"@en ;
+    schema:streetAddress "ул Л.Толстого"@ru .
+
+<http://ifmo.com/address/42/GeoCoordinates/> schema:latitude "52.929890"@en ;
+    schema:longitude "111.697160"@en .
+
+<http://ifmo.com/address/42/PostalAddress/> schema:addressLocality "п Озерный"@ru ;
+    schema:addressRegion "Респ Бурятия р-н Еравнинский"@ru ;
+    schema:postalCode "671445"@en ;
+    schema:streetAddress "ул Озерная"@ru .
+
+<http://ifmo.com/address/43/GeoCoordinates/> schema:latitude "56.423047"@en ;
+    schema:longitude "38.685472"@en .
+
+<http://ifmo.com/address/43/PostalAddress/> schema:addressLocality "д Афанасьево"@ru ;
+    schema:addressRegion "обл Владимирская р-н Александровский"@ru ;
+    schema:postalCode "601657"@en ;
+    schema:streetAddress "ул Солнечная"@ru .
+
+<http://ifmo.com/address/44/GeoCoordinates/> schema:latitude "61.776947"@en ;
+    schema:longitude "34.374025"@en .
+
+<http://ifmo.com/address/44/PostalAddress/> schema:addressLocality "д Машезеро"@ru ;
+    schema:addressRegion "Респ Карелия г Петрозаводск"@ru ;
+    schema:postalCode "185000"@en ;
+    schema:streetAddress "ул Машезерская"@ru .
+
+<http://ifmo.com/address/45/GeoCoordinates/> schema:latitude "53.382297"@en ;
+    schema:longitude "83.956214"@en .
+
+<http://ifmo.com/address/45/PostalAddress/> schema:addressLocality "с Барабаш"@ru ;
+    schema:addressRegion "край Приморский р-н Хасанский"@ru ;
+    schema:postalCode "692723"@en ;
+    schema:streetAddress "ул Спортивная"@ru .
+
+<http://ifmo.com/address/46/GeoCoordinates/> schema:latitude "52.945108"@en ;
+    schema:longitude "36.305143"@en .
+
+<http://ifmo.com/address/46/PostalAddress/> schema:addressLocality "д Кривая Лука"@ru ;
+    schema:addressRegion "обл Орловская р-н Орловский"@ru ;
+    schema:postalCode "302545"@en ;
+    schema:streetAddress "ул Шаталовская"@ru .
+
+<http://ifmo.com/address/47/GeoCoordinates/> schema:latitude "52.531963"@en ;
+    schema:longitude "111.239639"@en .
+
+<http://ifmo.com/address/47/PostalAddress/> schema:addressLocality "с Гонда"@ru ;
+    schema:addressRegion "Респ Бурятия р-н Еравнинский"@ru ;
+    schema:postalCode "671430"@en ;
+    schema:streetAddress "ул Рабочая"@ru .
+
+<http://ifmo.com/address/48/GeoCoordinates/> schema:latitude "52.779456"@en ;
+    schema:longitude "36.221222"@en .
+
+<http://ifmo.com/address/48/PostalAddress/> schema:addressLocality "с Калинино"@ru ;
+    schema:addressRegion "обл Орловская р-н Орловский"@ru ;
+    schema:postalCode "302513"@en ;
+    schema:streetAddress "ул Молодежная"@ru .
+
+<http://ifmo.com/address/49/GeoCoordinates/> schema:latitude "56.188633"@en ;
+    schema:longitude "39.765336"@en .
+
+<http://ifmo.com/address/49/PostalAddress/> schema:addressLocality "с Черкутино"@ru ;
+    schema:addressRegion "обл Владимирская р-н Собинский"@ru ;
+    schema:postalCode "601235"@en ;
+    schema:streetAddress "ул Советская"@ru .
+
+<http://ifmo.com/address/5/GeoCoordinates/> schema:latitude "55.286779"@en ;
+    schema:longitude "64.378870"@en .
+
+<http://ifmo.com/address/5/PostalAddress/> schema:addressLocality "с Петровское"@ru ;
+    schema:addressRegion "обл Курганская р-н Юргамышский"@ru ;
+    schema:postalCode "641219"@en ;
+    schema:streetAddress "ул Тупиковая"@ru .
+
+<http://ifmo.com/address/50/GeoCoordinates/> schema:latitude "55.247652"@en ;
+    schema:longitude "64.648894"@en .
+
+<http://ifmo.com/address/50/PostalAddress/> schema:addressLocality "д Красикова"@ru ;
+    schema:addressRegion "обл Курганская р-н Юргамышский"@ru ;
+    schema:postalCode "641212"@en ;
+    schema:streetAddress "ул Левобережная"@ru .
+
+<http://ifmo.com/address/51/GeoCoordinates/> schema:latitude "56.292937"@en ;
+    schema:longitude "41.288708"@en .
+
+<http://ifmo.com/address/51/PostalAddress/> schema:addressLocality "п Мелехово"@ru ;
+    schema:addressRegion "обл Владимирская р-н Ковровский"@ru ;
+    schema:postalCode "601966"@en ;
+    schema:streetAddress "ул Нагорная"@ru .
+
+<http://ifmo.com/address/52/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/52/PostalAddress/> schema:addressLocality "х Новодонецкий"@ru ;
+    schema:addressRegion "обл Ростовская р-н Милютинский"@ru ;
+    schema:postalCode "347111"@en ;
+    schema:streetAddress "пер Рыбачий"@ru .
+
+<http://ifmo.com/address/53/GeoCoordinates/> schema:latitude "61.920284"@en ;
+    schema:longitude "32.813247"@en .
+
+<http://ifmo.com/address/53/PostalAddress/> schema:addressLocality "с Вешкелица"@ru ;
+    schema:addressRegion "Респ Карелия р-н Суоярвский"@ru ;
+    schema:postalCode "186877"@en ;
+    schema:streetAddress "ул Лесная"@ru .
+
+<http://ifmo.com/address/54/GeoCoordinates/> schema:latitude "52.680864"@en ;
+    schema:longitude "41.587183"@en .
+
+<http://ifmo.com/address/54/PostalAddress/> schema:addressLocality "с Глазок"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Мичуринский"@ru ;
+    schema:postalCode "393734"@en ;
+    schema:streetAddress "ул Красный Пруд"@ru .
+
+<http://ifmo.com/address/55/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/55/PostalAddress/> schema:addressLocality "д Сямозеро"@ru ;
+    schema:addressRegion "Респ Карелия р-н Пряжинский"@ru ;
+    schema:postalCode "186137"@en ;
+    schema:streetAddress "ул Сямозерская"@ru .
+
+<http://ifmo.com/address/56/GeoCoordinates/> schema:latitude "50.159803"@en ;
+    schema:longitude "107.394473"@en .
+
+<http://ifmo.com/address/56/PostalAddress/> schema:addressLocality "с Кудара-Сомон"@ru ;
+    schema:addressRegion "Респ Бурятия р-н Кяхтинский"@ru ;
+    schema:postalCode "671831"@en ;
+    schema:streetAddress "пер Южный"@ru .
+
+<http://ifmo.com/address/57/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/57/PostalAddress/> schema:addressLocality "х Степано-Савченский"@ru ;
+    schema:addressRegion "обл Ростовская р-н Милютинский"@ru ;
+    schema:postalCode "347137"@en ;
+    schema:streetAddress "ул Поляково-Ивановская"@ru .
+
+<http://ifmo.com/address/58/GeoCoordinates/> schema:latitude "52.751764"@en ;
+    schema:longitude "41.423303"@en .
+
+<http://ifmo.com/address/58/PostalAddress/> schema:addressLocality "рп Токаревка"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Токаревский"@ru ;
+    schema:postalCode "393550"@en ;
+    schema:streetAddress "ул Молодежная"@ru .
+
+<http://ifmo.com/address/59/GeoCoordinates/> schema:latitude "47.278064"@en ;
+    schema:longitude "39.291493"@en .
+
+<http://ifmo.com/address/59/PostalAddress/> schema:addressLocality "с Синявское"@ru ;
+    schema:addressRegion "обл Ростовская р-н Неклиновский"@ru ;
+    schema:postalCode "346859"@en ;
+    schema:streetAddress "ул Первомайская"@ru .
+
+<http://ifmo.com/address/6/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/6/PostalAddress/> schema:addressLocality "с Ульдурга"@ru ;
+    schema:addressRegion "Респ Бурятия р-н Еравнинский"@ru ;
+    schema:postalCode "671436"@en ;
+    schema:streetAddress "ул Сампилона"@ru .
+
+<http://ifmo.com/address/60/GeoCoordinates/> schema:latitude "43.476657"@en ;
+    schema:longitude "44.162769"@en .
+
+<http://ifmo.com/address/60/PostalAddress/> schema:addressLocality "с Дейское"@ru ;
+    schema:addressRegion "Респ Кабардино-Балкарская р-н Терский"@ru ;
+    schema:postalCode "361221"@en ;
+    schema:streetAddress "ул Школьная"@ru .
+
+<http://ifmo.com/address/61/GeoCoordinates/> schema:latitude "47.405290"@en ;
+    schema:longitude "40.112661"@en .
+
+<http://ifmo.com/address/61/PostalAddress/> schema:addressLocality "рп Каменоломни"@ru ;
+    schema:addressRegion "обл Ростовская р-н Октябрьский"@ru ;
+    schema:postalCode "346481"@en ;
+    schema:streetAddress "пер Кривой"@ru .
+
+<http://ifmo.com/address/62/GeoCoordinates/> schema:latitude "61.941878"@en ;
+    schema:longitude "48.572330"@en .
+
+<http://ifmo.com/address/62/PostalAddress/> schema:addressLocality "д Бор"@ru ;
+    schema:addressRegion "обл Архангельская р-н Ленский"@ru ;
+    schema:postalCode "165785"@en ;
+    schema:streetAddress "пер Малый"@ru .
+
+<http://ifmo.com/address/63/GeoCoordinates/> schema:latitude "55.031051"@en ;
+    schema:longitude "76.956290"@en .
+
+<http://ifmo.com/address/63/PostalAddress/> schema:addressLocality "д Черниговка"@ru ;
+    schema:addressRegion "обл Новосибирская р-н Чановский"@ru ;
+    schema:postalCode "632233"@en ;
+    schema:streetAddress "ул Безымянная"@ru .
+
+<http://ifmo.com/address/64/GeoCoordinates/> schema:latitude "51.265478"@en ;
+    schema:longitude "37.516404"@en .
+
+<http://ifmo.com/address/64/PostalAddress/> schema:addressLocality "с Сапрыкино"@ru ;
+    schema:addressRegion "обл Белгородская р-н Губкинский"@ru ;
+    schema:postalCode "309172"@en ;
+    schema:streetAddress "ул Лесная"@ru .
+
+<http://ifmo.com/address/65/GeoCoordinates/> schema:latitude "55.946965"@en ;
+    schema:longitude "40.249052"@en .
+
+<http://ifmo.com/address/65/PostalAddress/> schema:addressLocality "п Асерхово"@ru ;
+    schema:addressRegion "обл Владимирская р-н Собинский"@ru ;
+    schema:postalCode "601216"@en ;
+    schema:streetAddress "ул Школьная"@ru .
+
+<http://ifmo.com/address/66/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/66/PostalAddress/> schema:addressLocality "г Судогда"@ru ;
+    schema:addressRegion "обл Владимирская р-н Судогодский"@ru ;
+    schema:postalCode "601351"@en ;
+    schema:streetAddress "проезд Стекольщиков"@ru .
+
+<http://ifmo.com/address/67/GeoCoordinates/> schema:latitude "53.382297"@en ;
+    schema:longitude "83.956214"@en .
+
+<http://ifmo.com/address/67/PostalAddress/> schema:addressLocality "с Улитовка"@ru ;
+    schema:addressRegion "край Приморский р-н Уссурийский"@ru ;
+    schema:postalCode "692544"@en ;
+    schema:streetAddress "ул Новая"@ru .
+
+<http://ifmo.com/address/68/GeoCoordinates/> schema:latitude "47.251128"@en ;
+    schema:longitude "39.617896"@en .
+
+<http://ifmo.com/address/68/PostalAddress/> schema:addressLocality "ст-ца Егорлыкская"@ru ;
+    schema:addressRegion "обл Ростовская р-н Егорлыкский"@ru ;
+    schema:postalCode "347664"@en ;
+    schema:streetAddress "ул Напорная"@ru .
+
+<http://ifmo.com/address/69/GeoCoordinates/> schema:latitude "55.861636"@en ;
+    schema:longitude "41.278665"@en .
+
+<http://ifmo.com/address/69/PostalAddress/> schema:addressLocality "п Красный Куст"@ru ;
+    schema:addressRegion "обл Владимирская р-н Судогодский"@ru ;
+    schema:postalCode "601386"@en ;
+    schema:streetAddress "ул Зеленая"@ru .
+
+<http://ifmo.com/address/7/GeoCoordinates/> schema:latitude "46.572688"@en ;
+    schema:longitude "40.663966"@en .
+
+<http://ifmo.com/address/7/PostalAddress/> schema:addressLocality "ст-ца Егорлыкская"@ru ;
+    schema:addressRegion "обл Ростовская р-н Егорлыкский"@ru ;
+    schema:postalCode "347661"@en ;
+    schema:streetAddress "пер Грицика"@ru .
+
+<http://ifmo.com/address/70/GeoCoordinates/> schema:latitude "52.784527"@en ;
+    schema:longitude "40.446610"@en .
+
+<http://ifmo.com/address/70/PostalAddress/> schema:addressLocality "с Кочетовка"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Мичуринский"@ru ;
+    schema:postalCode "393737"@en ;
+    schema:streetAddress "ул Куйбышева"@ru .
+
+<http://ifmo.com/address/71/GeoCoordinates/> schema:latitude "61.849046"@en ;
+    schema:longitude "33.179580"@en .
+
+<http://ifmo.com/address/71/PostalAddress/> schema:addressLocality "с Эссойла"@ru ;
+    schema:addressRegion "Респ Карелия р-н Пряжинский"@ru ;
+    schema:postalCode "186137"@en ;
+    schema:streetAddress "ул Лесная"@ru .
+
+<http://ifmo.com/address/72/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/72/PostalAddress/> schema:addressLocality "сл Алексеево-Тузловка"@ru ;
+    schema:addressRegion "обл Ростовская р-н Родионово-Несветайский"@ru ;
+    schema:postalCode "346596"@en ;
+    schema:streetAddress "ул Маяковского"@ru .
+
+<http://ifmo.com/address/73/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/73/PostalAddress/> schema:addressLocality "мкр Алмазный"@ru ;
+    schema:addressRegion "обл Ростовская г Гуково"@ru ;
+    schema:postalCode "347892"@en ;
+    schema:streetAddress "ул Победы"@ru .
+
+<http://ifmo.com/address/74/GeoCoordinates/> schema:latitude "53.382297"@en ;
+    schema:longitude "83.956214"@en .
+
+<http://ifmo.com/address/74/PostalAddress/> schema:addressLocality "с Заречное"@ru ;
+    schema:addressRegion "край Приморский р-н Уссурийский"@ru ;
+    schema:postalCode "692548"@en ;
+    schema:streetAddress "ул Родниковая"@ru .
+
+<http://ifmo.com/address/75/GeoCoordinates/> schema:latitude "53.038491"@en ;
+    schema:longitude "36.232900"@en .
+
+<http://ifmo.com/address/75/PostalAddress/> schema:addressLocality "с Платоново"@ru ;
+    schema:addressRegion "обл Орловская р-н Орловский"@ru ;
+    schema:postalCode "302525"@en ;
+    schema:streetAddress "ул Калиновская"@ru .
+
+<http://ifmo.com/address/76/GeoCoordinates/> schema:latitude "59.023358"@en ;
+    schema:longitude "54.652568"@en .
+
+<http://ifmo.com/address/76/PostalAddress/> schema:addressLocality "с Ломбовож"@ru ;
+    schema:addressRegion "АО Ханты-Мансийский Автономный округ - Югра р-н Березовский"@ru ;
+    schema:postalCode "628145"@en ;
+    schema:streetAddress "ул Полевая"@ru .
+
+<http://ifmo.com/address/77/GeoCoordinates/> schema:latitude "62.138323"@en ;
+    schema:longitude "42.820291"@en .
+
+<http://ifmo.com/address/77/PostalAddress/> schema:addressLocality "с Погост Никольский"@ru ;
+    schema:addressRegion "обл Вологодская р-н Харовский"@ru ;
+    schema:postalCode "162250"@en ;
+    schema:streetAddress "ул Сосновая"@ru .
+
+<http://ifmo.com/address/78/GeoCoordinates/> schema:latitude "53.177532"@en ;
+    schema:longitude "35.995772"@en .
+
+<http://ifmo.com/address/78/PostalAddress/> schema:addressLocality "п Зареченский"@ru ;
+    schema:addressRegion "обл Орловская р-н Орловский"@ru ;
+    schema:postalCode "302528"@en ;
+    schema:streetAddress "ул Царев Брод"@ru .
+
+<http://ifmo.com/address/79/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/79/PostalAddress/> schema:addressLocality "п Заречный"@ru ;
+    schema:addressRegion "Респ Карелия г Костомукша"@ru ;
+    schema:postalCode "186931"@en ;
+    schema:streetAddress "ул Заречная"@ru .
+
+<http://ifmo.com/address/8/GeoCoordinates/> schema:latitude "59.377622"@en ;
+    schema:longitude "41.042579"@en .
+
+<http://ifmo.com/address/8/PostalAddress/> schema:addressLocality "д Малая Сторона"@ru ;
+    schema:addressRegion "обл Вологодская р-н Междуреченский"@ru ;
+    schema:postalCode "161050"@en ;
+    schema:streetAddress "ул Полевая"@ru .
+
+<http://ifmo.com/address/80/GeoCoordinates/> schema:latitude "59.198021"@en ;
+    schema:longitude "37.152074"@en .
+
+<http://ifmo.com/address/80/PostalAddress/> schema:addressLocality "пгт Кадуй"@ru ;
+    schema:addressRegion "обл Вологодская р-н Кадуйский"@ru ;
+    schema:postalCode "162512"@en ;
+    schema:streetAddress "ул Комсомола"@ru .
+
+<http://ifmo.com/address/81/GeoCoordinates/> schema:latitude "52.814380"@en ;
+    schema:longitude "40.191542"@en .
+
+<http://ifmo.com/address/81/PostalAddress/> schema:addressLocality "д Казинские Выселки"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Мичуринский"@ru ;
+    schema:postalCode "393747"@en ;
+    schema:streetAddress "ул Зеленая"@ru .
+
+<http://ifmo.com/address/82/GeoCoordinates/> schema:latitude "55.492023"@en ;
+    schema:longitude "47.086875"@en .
+
+<http://ifmo.com/address/82/PostalAddress/> schema:addressLocality "д Семенькасы"@ru ;
+    schema:addressRegion "Респ Чувашская - Чувашия р-н Моргаушский"@ru ;
+    schema:postalCode "429530"@en ;
+    schema:streetAddress "ул Купир"@ru .
+
+<http://ifmo.com/address/83/GeoCoordinates/> schema:latitude "51.153750"@en ;
+    schema:longitude "37.735557"@en .
+
+<http://ifmo.com/address/83/PostalAddress/> schema:addressLocality "с Прокудино"@ru ;
+    schema:addressRegion "обл Белгородская р-н Старооскольский"@ru ;
+    schema:postalCode "309532"@en ;
+    schema:streetAddress "ул Южная"@ru .
+
+<http://ifmo.com/address/84/GeoCoordinates/> schema:latitude "44.999389"@en ;
+    schema:longitude "40.085343"@en .
+
+<http://ifmo.com/address/84/PostalAddress/> schema:addressLocality "п Зарево"@ru ;
+    schema:addressRegion "Респ Адыгея р-н Шовгеновский"@ru ;
+    schema:postalCode "385445"@en ;
+    schema:streetAddress "ул Молодежная"@ru .
+
+<http://ifmo.com/address/85/GeoCoordinates/> schema:latitude "52.940880"@en ;
+    schema:longitude "35.071846"@en .
+
+<http://ifmo.com/address/85/PostalAddress/> schema:addressLocality "с Юшково"@ru ;
+    schema:addressRegion "обл Орловская р-н Шаблыкинский"@ru ;
+    schema:postalCode "303273"@en ;
+    schema:streetAddress "проезд Садовый"@ru .
+
+<http://ifmo.com/address/86/GeoCoordinates/> schema:latitude "56.062821"@en ;
+    schema:longitude "47.119116"@en .
+
+<http://ifmo.com/address/86/PostalAddress/> schema:addressLocality "д Чубаево"@ru ;
+    schema:addressRegion "Респ Чувашская - Чувашия р-н Урмарский"@ru ;
+    schema:postalCode "429406"@en ;
+    schema:streetAddress "ул Молодежная"@ru .
+
+<http://ifmo.com/address/87/GeoCoordinates/> schema:latitude "47.728732"@en ;
+    schema:longitude "41.268128"@en .
+
+<http://ifmo.com/address/87/PostalAddress/> schema:addressLocality "х Абрамовка"@ru ;
+    schema:addressRegion "обл Ростовская р-н Каменский"@ru ;
+    schema:postalCode "347863"@en ;
+    schema:streetAddress "ул Надежда СНТ Грушевая"@ru .
+
+<http://ifmo.com/address/88/GeoCoordinates/> schema:latitude "55.554099"@en ;
+    schema:longitude "63.765859"@en .
+
+<http://ifmo.com/address/88/PostalAddress/> schema:addressLocality "с Кирово"@ru ;
+    schema:addressRegion "обл Курганская р-н Мишкинский"@ru ;
+    schema:postalCode "641050"@en ;
+    schema:streetAddress "ул Школьная"@ru .
+
+<http://ifmo.com/address/89/GeoCoordinates/> schema:latitude "43.670999"@en ;
+    schema:longitude "44.297571"@en .
+
+<http://ifmo.com/address/89/PostalAddress/> schema:addressLocality "с Терекское"@ru ;
+    schema:addressRegion "Респ Кабардино-Балкарская р-н Терский"@ru ;
+    schema:postalCode "361214"@en ;
+    schema:streetAddress "ул Орджоникидзе"@ru .
+
+<http://ifmo.com/address/9/GeoCoordinates/> schema:latitude "55.362629"@en ;
+    schema:longitude "84.090216"@en .
+
+<http://ifmo.com/address/9/PostalAddress/> schema:addressLocality "с Елтышево"@ru ;
+    schema:addressRegion "обл Новосибирская р-н Мошковский"@ru ;
+    schema:postalCode "633152"@en ;
+    schema:streetAddress "ул Лесная"@ru .
+
+<http://ifmo.com/address/90/GeoCoordinates/> schema:latitude "59.914502"@en ;
+    schema:longitude "39.279761"@en .
+
+<http://ifmo.com/address/90/PostalAddress/> schema:addressLocality "д Бережное"@ru ;
+    schema:addressRegion "обл Вологодская р-н Усть-Кубинский"@ru ;
+    schema:postalCode "161150"@en ;
+    schema:streetAddress "ул Луговая"@ru .
+
+<http://ifmo.com/address/91/GeoCoordinates/> schema:latitude "54.379027"@en ;
+    schema:longitude "35.154724"@en .
+
+<http://ifmo.com/address/91/PostalAddress/> schema:addressLocality "д Шалово"@ru ;
+    schema:addressRegion "обл Калужская р-н Мещовский"@ru ;
+    schema:postalCode "249256"@en ;
+    schema:streetAddress "ул Северная"@ru .
+
+<http://ifmo.com/address/92/GeoCoordinates/> schema:latitude "55.648123"@en ;
+    schema:longitude "63.648189"@en .
+
+<http://ifmo.com/address/92/PostalAddress/> schema:addressLocality "с Купай"@ru ;
+    schema:addressRegion "обл Курганская р-н Мишкинский"@ru ;
+    schema:postalCode "641063"@en ;
+    schema:streetAddress "ул Черемушки"@ru .
+
+<http://ifmo.com/address/93/GeoCoordinates/> schema:latitude "55.414772"@en ;
+    schema:longitude "55.543625"@en .
+
+<http://ifmo.com/address/93/PostalAddress/> schema:addressLocality "г Бирск"@ru ;
+    schema:addressRegion "Респ Башкортостан р-н Бирский"@ru ;
+    schema:postalCode "452451"@en ;
+    schema:streetAddress "пер Некрасова"@ru .
+
+<http://ifmo.com/address/94/GeoCoordinates/> schema:latitude "55.035013"@en ;
+    schema:longitude "58.564928"@en .
+
+<http://ifmo.com/address/94/PostalAddress/> schema:addressLocality "с Мурсалимкино"@ru ;
+    schema:addressRegion "Респ Башкортостан р-н Салаватский"@ru ;
+    schema:postalCode "452485"@en ;
+    schema:streetAddress "ул Советская"@ru .
+
+<http://ifmo.com/address/95/GeoCoordinates/> schema:latitude "55.861636"@en ;
+    schema:longitude "41.278665"@en .
+
+<http://ifmo.com/address/95/PostalAddress/> schema:addressLocality "п Красный Куст"@ru ;
+    schema:addressRegion "обл Владимирская р-н Судогодский"@ru ;
+    schema:postalCode "601386"@en ;
+    schema:streetAddress "ул Школьная"@ru .
+
+<http://ifmo.com/address/96/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/96/PostalAddress/> schema:addressLocality "х Бурульский"@ru ;
+    schema:addressRegion "обл Ростовская р-н Зимовниковский"@ru ;
+    schema:postalCode "347472"@en ;
+    schema:streetAddress "ул Мирная"@ru .
+
+<http://ifmo.com/address/97/GeoCoordinates/> schema:latitude "61.698653"@en ;
+    schema:longitude "99.505405"@en .
+
+<http://ifmo.com/address/97/PostalAddress/> schema:addressLocality "х Солонецкий"@ru ;
+    schema:addressRegion "обл Ростовская р-н Обливский"@ru ;
+    schema:postalCode "347161"@en ;
+    schema:streetAddress "пер Дальний"@ru .
+
+<http://ifmo.com/address/98/GeoCoordinates/> schema:latitude "51.941246"@en ;
+    schema:longitude "42.026692"@en .
+
+<http://ifmo.com/address/98/PostalAddress/> schema:addressLocality "п Сабуровский"@ru ;
+    schema:addressRegion "обл Тамбовская р-н Уваровский"@ru ;
+    schema:postalCode "393481"@en ;
+    schema:streetAddress "ул Заезжая"@ru .
+
+<http://ifmo.com/address/99/GeoCoordinates/> schema:latitude "48.919225"@en ;
+    schema:longitude "40.390546"@en .
+
+<http://ifmo.com/address/99/PostalAddress/> schema:addressLocality "г Миллерово"@ru ;
+    schema:addressRegion "обл Ростовская р-н Миллеровский"@ru ;
+    schema:postalCode "346130"@en ;
+    schema:streetAddress "ул Ленина"@ru .
+
