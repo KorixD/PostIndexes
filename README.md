@@ -7,7 +7,7 @@
 * Запрос на http://geocode-maps.yandex.ru/1.x/?geocode=Россия, получение из ответа широты и долготы улицы
 * Экспорт данных в формат turtle
 
-Сырые данные из http://fias.nalog.ru/Public/DownloadPage.aspx
+Сырые данные open-street.cv
 
 Онтология: 
 http://schema.org/Place (geoCoordinates & postalAddress)
