@@ -7,7 +7,7 @@
 * Запрос на http://geocode-maps.yandex.ru/1.x/?geocode=Россия, получение из ответа широты и долготы улицы
 * Экспорт данных в формат turtle
 
-Сырые данные open-street.cv
+Сырые данные open-street.csv
 
 Онтология: 
 Schema, URI: http://schema.org/ (geoCoordinates & postalAddress)
@@ -16,4 +16,17 @@ Schema, URI: http://schema.org/ (geoCoordinates & postalAddress)
  - prefix schema: <http://schema.org/>
 select ?x ?z ?a  where {?x a schema:Place. ?x schema:GeoCoordinates ?y. ?y schema:latitude ?z. ?y schema:longitude ?a.}
 
+prefix schema: <http://schema.org/>
 select ?y ?x where {?a a schema:PostalAddress. ?a schema:postalCode ?x. ?a schema:streetAddress ?y.}
+
+prefix schema: <http://schema.org/>
+
+SELECT ?x ?k WHERE {
+    ?x a schema:PostalAddress.
+    ?x schema:streetAddress ?k.
+    
+    SERVICE <http://dbpedia.org/sparql> {
+        ?dbpediaLink a schema:PostalAddress.
+        ?dbpediaLink schema:streetAddress ?k.
+    }
+}
